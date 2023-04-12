@@ -1,8 +1,7 @@
-runbook
-
 ## 10.00u Start Presentatie/Demo Proxmox
 * Aanmaken van een usb memory stick
 * Voorbereiden van de machine waarop Proxmox geinstalleerd moet worden
+** Kiezen opstart media
 * Installatie Proxmox
 * De admin pagina
 * Updaten van Proxmox
