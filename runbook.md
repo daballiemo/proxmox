@@ -1,6 +1,6 @@
 runbook
 
-10.00u Start Presentatie/Demo Proxmox
+## 10.00u Start Presentatie/Demo Proxmox
 * Aanmaken van een usb memory stick
 * Voorbereiden van de machine waarop Proxmox geinstalleerd moet worden
 * Installatie Proxmox
@@ -9,5 +9,6 @@ runbook
 
 
 
-11.30u Installatie Home Assistant op Proxmox
-12.30U Lunch
+## 11.15u Installatie Home Assistant op Proxmox
+
+## 12.30U Lunch
