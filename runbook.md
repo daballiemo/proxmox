@@ -6,10 +6,14 @@
      * [Balena Etcher](https://www.balena.io/etcher)
      * [UnetBootIn](https://unetbootin.github.io/)
      * of in Linux/MacOS door gebruik te maken van het commandline programma "dd" 
+
 * Voorbereiden van de machine waarop Proxmox geinstalleerd moet worden
-  * Kiezen opstart media
+  * Kiezen opstart media via bios of opstart menu
+
 * Installatie Proxmox
+
 * De admin pagina
+
 * Updaten van Proxmox
 
 
