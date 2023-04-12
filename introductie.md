@@ -1,4 +1,4 @@
-### Workshop Proxmox en HomeAssistant
+### Workshop Proxmox en Home Assistant
 
 Altijd al eens met virtualisatie willen spelen?
 Eerst wel eens met nieuwe releases willen testen zonder dat je je PC opnieuw moet installeren?
@@ -21,3 +21,5 @@ zowel Linux als Windows. Hierdoor kunnen gebruikers hun Home Assistant omgeving 
 goed wordt beschermd. Tot slot biedt ProxMox regelmatige updates en ondersteuning voor hun software, waardoor het platform continu wordt verbeterd 
 en indien nodig nieuwe functies en ondersteuning biedt. Hierdoor is het voor thuisgebruikers van Home Assistant gemakkelijker om de virtuele machine 
 gevirtualiseerd in een stabiele en geoptimaliseerde omgeving te laten draaien.
+
+In de workshop laten we zien hoe Proxmox wordt geinstalleerd en hoe we vervolgens Home Assistant kunnen installeren.
