@@ -1,3 +1,5 @@
+Workshop Proxmox en HomeAssistant
+
 Altijd al eens met virtualisatie willen spelen?
 Eerst wel eens met nieuwe releases willen testen zonder dat je je PC opnieuw moet installeren?
 Linux leren kennen zonder dat je meteen een PC moet opofferen?
