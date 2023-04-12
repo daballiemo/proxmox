@@ -1,7 +1,7 @@
 ## 10.00u Start Presentatie/Demo Proxmox
 * Aanmaken van een usb memory stick
- * Download pagina [Proxmox](https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment)
- * Kies een programma om de ISO op een usb stick te zetten:
+  * Download pagina [Proxmox](https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment)
+  * Kies een programma om de ISO op een usb stick te zetten:
    * [Rufus](https://rufus.ie/)
    * [Balena Etcher](https://www.balena.io/etcher)
    * [UnetBootIn](https://unetbootin.github.io/)
@@ -16,4 +16,4 @@
 
 ## 11.15u Installatie Home Assistant op Proxmox
 
-## 12.30U Lunch
+## 12.30u Lunch
