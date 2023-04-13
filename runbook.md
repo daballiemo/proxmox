@@ -1,4 +1,5 @@
 ## 10.00u Start Presentatie/Demo Proxmox
+* Uitleg virtualisatie
 * Aanmaken van een usb memory stick
   * Download pagina [Proxmox](https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment)
   * Kies een programma om de ISO op een usb stick te zetten:
