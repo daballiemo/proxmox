@@ -1,5 +1,5 @@
-## 10.00u Start Presentatie/Demo Proxmox
-* Uitleg virtualisatie
+## 11.00u Start Presentatie/Demo Proxmox
+* Uitleg virtualisatie (hypervisor/VM/Container)
 * Aanmaken van een usb memory stick
   * Download pagina [Proxmox](https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment)
   * Kies een programma om de ISO op een usb stick te zetten:
@@ -17,8 +17,15 @@
 
 * Updaten van Proxmox
 
+* Installatie van een container (Vaultwarden)
 
+* Installatie van een VM (Ubuntu)
 
-## 11.15u Installatie Home Assistant op Proxmox
+* Opzetten van een cluster
+
+* Migratie van een container/VM
+
 
 ## 12.30u Lunch
+
+## Home Assistant
