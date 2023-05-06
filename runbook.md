@@ -11,7 +11,7 @@
      * [UnetBootIn](https://unetbootin.github.io/)
      * of in Linux/MacOS door gebruik te maken van het commandline programma "dd" 
 
-* Uitleg netwerk wat we gebruiken voor de demo
+* Uitleg [netwerk](https://github.com/user34756361233/proxmox/blob/main/Proxmox%20netwerk.png) wat we gebruiken voor de demo
 
 * Voorbereiden van de machine waarop Proxmox geinstalleerd moet worden
   * Kiezen opstart media via bios of opstart menu
