@@ -1,5 +1,8 @@
 ## 11.00u Start Presentatie/Demo Proxmox
 * Uitleg virtualisatie (hypervisor/VM/Container)
+  * Video (5.19): Wat is [virtualisatie](https://www.youtube.com/watch?v=FZR0rG3HKIk) (Engels) 
+  * Video (8.08): Uitleg van het verschil tussen [VM en Containers](https://www.youtube.com/watch?v=cjXI-yxqGTI) (Engels)
+
 * Aanmaken van een usb memory stick
   * Download pagina [Proxmox](https://www.proxmox.com/en/downloads/category/proxmox-virtual-environment)
   * Kies een programma om de ISO op een usb stick te zetten:
