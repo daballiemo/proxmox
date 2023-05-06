@@ -4,4 +4,5 @@
 * Site met allemaal [scripts](https://tteck.github.io/Proxmox/) om zaken te installeren op ProxMox
 
 ### Achtergrond/uitleg
+* Wat is [virtualisatie](https://www.youtube.com/watch?v=FZR0rG3HKIk) (Engels) 
 * Uitleg van het verschil tussen [VM en Containers](https://www.youtube.com/watch?v=cjXI-yxqGTI) (Engels)
